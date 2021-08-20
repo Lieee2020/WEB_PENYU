@@ -27,7 +27,7 @@ body {
 /* Header */
 header {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.616)),
-		url(/image/turtle.jpg);
+		url(/image/turtle.jpg);/*background*/
 	background-position: 1% 60%;
 	background-size: cover;
 	height: 100vh;
